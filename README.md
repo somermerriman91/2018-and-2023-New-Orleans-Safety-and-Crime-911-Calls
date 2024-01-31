@@ -76,8 +76,8 @@ Suggest adjustments to police presence, patrol routes, and response times to imp
 |-----------|--------|----------|---------|
 | `nolacrimecleanest.csv` | Local File | Cleaned Data | Yes |
 | `nolacrimeraw.csv` | [Kaggle](https://www.kaggle.com/datasets/ericgoldberg/safety-and-crime-911-calls-new-orleans-2018) | Raw Dataset | Yes |
-| `NOPD_Police_Districts.shp`| [All listed](https://hub.arcgis.com/maps/d9d7c99ddf4645b38d72b09f06dffa66/explore?location=30.021106%2C-89.882950%2C11.60) | Geospatial File for District visualization | Yes |
-|
+| `NOPD_Police_Districts.shp`| [ArcGis.com](https://hub.arcgis.com/maps/d9d7c99ddf4645b38d72b09f06dffa66/explore?location=30.021106%2C-89.882950%2C11.60) | Geospatial File for District visualization | Yes |
+
 
 
 
