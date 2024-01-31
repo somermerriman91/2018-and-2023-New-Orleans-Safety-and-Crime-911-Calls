@@ -1,5 +1,4 @@
-
-## Project Title: New Orleans Safety and Crime Incident Data Analysis and Visualization - 2018
+# New Orleans Safety and Crime Incident Data Analysis and Visualization - 2018
 
 ### Project Overview
 The primary objective of this project is to conduct a comprehensive analysis and visualization of incident data reported to the Orleans Parish Communication District (OPCD) for the year 2018. The insights generated from this analysis have the potential to significantly impact decision-making processes related to resource allocation for the New Orleans Police Department (NOPD) and other relevant stakeholders. The project aims to improve public safety, reduce crime rates, and enhance the overall effectiveness of law enforcement operations. Furthermore, it aspires to foster transparency and accountability in resource allocation practices.
